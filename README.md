@@ -1,3 +1,5 @@
+Aside
+================================================================================
 Contact Info {#contact}
 
 --------------------------------------------------------------------------------
@@ -33,9 +35,7 @@ This resume was made with the R package [**pagedown**](https://github.com/rstudi
 Last updated on `r Sys.Date()`.
 
 Main
-
-==================================================================
-
+================================================================================
 Virgile Korsec {#title}
 
 --------------------------------------------------------------------------------
@@ -240,7 +240,8 @@ Daily work with disabled patients demands
 
 Clinical expertise on specific demands situations
 
-Teaching Experience {data-icon=chalkboard-teacher} --------------------------------------------------------------------------------
+Teaching Experience {data-icon=chalkboard-teacher} 
+--------------------------------------------------------------------------------
 
 Health system organization and epidemiology
 
@@ -274,7 +275,8 @@ Nancy school of medicine
 
 Nancy, France
 
-Volunteering {data-icon=file} --------------------------------------------------------------------------------
+Volunteering {data-icon=file} 
+--------------------------------------------------------------------------------
 
 French commission at EuroNet - Medical Residents in Public Health (MRPH)
 
@@ -312,7 +314,8 @@ Volunteer at Amis-d'gens (NGO)
 
 2009 to 2013
 
-Centers of interest {data-icon=file} --------------------------------------------------------------------------------
+Centers of interest {data-icon=file} 
+--------------------------------------------------------------------------------
 
 Traveling
 
@@ -324,11 +327,13 @@ Alpinism
 
 Litterature
 
-Scheme {data-icon=file} --------------------------------------------------------------------------------
+Scheme {data-icon=file} 
+--------------------------------------------------------------------------------
 
 International career in public health Bordering projects for healthcare improvement Medical activity manager for NGO's
 
-Graduations {data-icon=file} --------------------------------------------------------------------------------
+Graduations {data-icon=file} 
+--------------------------------------------------------------------------------
 
 Med school
 
